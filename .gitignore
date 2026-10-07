@@ -1,0 +1,7 @@
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Si alguna vez conectas el proyecto a un servidor fuera de Docker
+# y generas credenciales reales, nunca subas ese archivo a GitHub:
+.env
